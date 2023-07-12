@@ -1,0 +1,16 @@
+.container-fluid{
+  background-image: url('https://cdn.wallpapersafari.com/55/73/ghY4rc.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* display: flex; */
+  /* justify-content: center; */
+}
+.title{
+  display:flex;
+  justify-content: center;
+}
+.logpage{
+  display: flex;
+  justify-content: center;
+}
